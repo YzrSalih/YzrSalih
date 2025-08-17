@@ -19,7 +19,7 @@
 
 ### 📝 About Me
 
-Results-oriented **Full-Stack Developer** with **2+ years of experience** in designing, developing, and deploying robust web applications. Skilled in building modern, responsive user interfaces with **JavaScript, React, and TypeScript**, and developing scalable **APIs and microservices using Java and the Spring Boot framework**.
+Results-oriented **Full-Stack Developer** with **3+ years of experience** in designing, developing, and deploying robust web applications. Skilled in building modern, responsive user interfaces with **JavaScript, React, and TypeScript**, and developing scalable **APIs and microservices using Java and the Spring Boot framework**.
 
 - 🚚 Experience with **3PL client web apps** and **Salesforce Lightning Web Components**
 - 💾 Skilled in **SQL & NoSQL databases (MongoDB, Redis)**, advanced **API integrations**, and **Dockerized** deployments
