@@ -1,4 +1,3 @@
-<img width="872" height="856" alt="image" src="https://github.com/user-attachments/assets/991b8c5c-9634-4c62-8e71-70ec2c731551" />````markdown name=README.md
 <!-- Profil README - Salih Yazar -->
 
 <h1 align="center">Hi 👋, I'm Salih Yazar</h1>
