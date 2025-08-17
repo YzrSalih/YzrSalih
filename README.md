@@ -48,7 +48,8 @@ Results-oriented **Full-Stack Developer** with **3+ years of experience** in des
 
 - Salesforce Developer I  
 - App Builder Certification  
-- AI Associate Certification  
+- AI Associate Certification
+- IBM Software Developer Certification
 
 ---
 
@@ -65,7 +66,3 @@ Results-oriented **Full-Stack Developer** with **3+ years of experience** in des
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YzrSalih&label=Profile+views&color=0e75b6&style=flat" alt="YzrSalih" />
-</p>
