@@ -12,14 +12,14 @@
 
 <!-- Animasyonlu Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B2FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer+with+3%2B+years+of+experience;JavaScript+%7C+React+%7C+TypeScript+%7C+Java+Spring+Boot;API+%26+Microservice+enthusiast+%7C+Docker+fan;Open+to+collaboration+and+new+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+with+3%2B+years+of+experience;JavaScript+%7C+React+%7C+TypeScript+%7C+Java+Spring+Boot;API+%26+Microservice+enthusiast+%7C+Docker+fan;Open+to+collaboration+and+new+projects!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 📝 About Me
 
-Results-oriented **Full-Stack Developer** with **2+ years of experience** in designing, developing, and deploying robust web applications. Skilled in building modern, responsive user interfaces with **JavaScript, React, and TypeScript**, and developing scalable **APIs and microservices using Java and the Spring Boot framework**.
+Results-oriented **Full-Stack Developer** with **3+ years of experience** in designing, developing, and deploying robust web applications. Skilled in building modern, responsive user interfaces with **JavaScript, React, and TypeScript**, and developing scalable **APIs and microservices using Java and the Spring Boot framework**.
 
 - 🚚 Experience with **3PL client web apps** and **Salesforce Lightning Web Components**
 - 💾 Skilled in **SQL & NoSQL databases (MongoDB, Redis)**, advanced **API integrations**, and **Dockerized** deployments
@@ -46,9 +46,9 @@ Results-oriented **Full-Stack Developer** with **2+ years of experience** in des
 
 ### 📜 Certificates
 
-- Salesforce Developer I
-- App Builder Certification
-- AI Associate Certification
+- Salesforce Developer I  
+- App Builder Certification  
+- AI Associate Certification  
 
 ---
 
@@ -66,8 +66,6 @@ Results-oriented **Full-Stack Developer** with **2+ years of experience** in des
 
 ---
 
-<!-- Profilini ziyaret edenler için sayaç (isteğe bağlı) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YzrSalih&label=Profile+views&color=0e75b6&style=flat" alt="YzrSalih" />
 </p>
-````
